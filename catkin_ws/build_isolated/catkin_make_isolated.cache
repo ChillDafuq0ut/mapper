@@ -1,0 +1,2 @@
+ball_chaser:my_robot:rtabmap:teleop_twist_keyboard
+-G Unix Makefiles -DCATKIN_DEVEL_PREFIX=/home/robond/catkin_ws/devel_isolated -DCMAKE_INSTALL_PREFIX=/home/robond/catkin_ws/install_isolated
